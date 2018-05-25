@@ -1,0 +1,8 @@
+D:\Projects\TableValued\BatchImport\BatchImport\bin\Debug\BatchImport.exe.config
+D:\Projects\TableValued\BatchImport\BatchImport\bin\Debug\BatchImport.exe
+D:\Projects\TableValued\BatchImport\BatchImport\bin\Debug\BatchImport.pdb
+D:\Projects\TableValued\BatchImport\BatchImport\obj\Debug\BatchImport.csprojResolveAssemblyReference.cache
+D:\Projects\TableValued\BatchImport\BatchImport\obj\Debug\BatchImport.exe
+D:\Projects\TableValued\BatchImport\BatchImport\obj\Debug\BatchImport.pdb
+D:\Projects\TableValued\BatchImport\BatchImport\bin\Debug\E9.EA.BatchImport.dll
+D:\Projects\TableValued\BatchImport\BatchImport\bin\Debug\E9.EA.BatchImport.pdb

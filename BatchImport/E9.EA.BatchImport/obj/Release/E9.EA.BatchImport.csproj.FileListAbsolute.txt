@@ -1,0 +1,5 @@
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\bin\Release\E9.EA.BatchImport.dll
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\bin\Release\E9.EA.BatchImport.pdb
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\obj\Release\E9.EA.BatchImport.dll
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\obj\Release\E9.EA.BatchImport.pdb
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\obj\Release\E9.EA.BatchImport.csprojResolveAssemblyReference.cache

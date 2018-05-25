@@ -1,0 +1,14 @@
+E:\Source\E9_WMS_Service_V1.0.4\E9.EA.BatchImport\bin\Debug\E9.EA.BatchImport.dll
+E:\Source\E9_WMS_Service_V1.0.4\E9.EA.BatchImport\bin\Debug\E9.EA.BatchImport.pdb
+E:\Source\E9_WMS_Service_V1.0.4\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.dll
+E:\Source\E9_WMS_Service_V1.0.4\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.pdb
+E:\Source\E9_WMS_Service_V1.0.4\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.csprojResolveAssemblyReference.cache
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\bin\Debug\E9.EA.BatchImport.dll
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\bin\Debug\E9.EA.BatchImport.pdb
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.dll
+D:\资料\项目积累\嘉华汇诚\E9.EA.BatchImport\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.pdb
+D:\Projects\TableValued\BatchImport\E9.EA.BatchImport\bin\Debug\E9.EA.BatchImport.dll
+D:\Projects\TableValued\BatchImport\E9.EA.BatchImport\bin\Debug\E9.EA.BatchImport.pdb
+D:\Projects\TableValued\BatchImport\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.dll
+D:\Projects\TableValued\BatchImport\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.pdb
+D:\Projects\TableValued\BatchImport\E9.EA.BatchImport\obj\Debug\E9.EA.BatchImport.csprojResolveAssemblyReference.cache
