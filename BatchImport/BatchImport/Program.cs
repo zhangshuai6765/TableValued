@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace BatchImport
 {
+    /// <summary>
+    /// 两种批量导入方式
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
