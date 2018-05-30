@@ -10,8 +10,9 @@ namespace BatchImport
     /// <summary>
     /// 两种批量导入方式
  	/// master分支提交
-	/// test分支提   
-    /// /// </summary>
+	/// test分支提  
+    /// 创建储藏 
+    ///</summary>
     class Program
     {
         static void Main(string[] args)
