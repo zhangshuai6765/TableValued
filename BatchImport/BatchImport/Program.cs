@@ -11,7 +11,8 @@ namespace BatchImport
     /// 两种批量导入方式
  	/// master分支提交
 	/// test分支提  
-    /// 创建储藏 
+    /// 创建储藏
+    /// 弹出储藏前修改
     ///</summary>
     class Program
     {
