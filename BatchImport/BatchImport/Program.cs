@@ -9,7 +9,7 @@ namespace BatchImport
 {
     /// <summary>
     /// 两种批量导入方式
-    /// //dev分支提交
+    /// dev分支提交
     /// </summary>
     class Program
     {
